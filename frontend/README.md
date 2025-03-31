@@ -4,7 +4,7 @@
 
 This is the frontend of the DeFiSalary project, built with Next.js (React framework). It interacts with the blockchain smart contracts deployed using Hardhat.
 
-Current website is hosted on [defisalary-yashk.vercel.app](defisalary-yashk.vercel.app)
+Current website is hosted on [https://defisalary-yashk.vercel.app](https://defisalary-yashk.vercel.app/)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

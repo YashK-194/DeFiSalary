@@ -65,10 +65,6 @@ DeFiSalary is a decentralized payroll management system that automates salary pa
 - **Contract Address (Sepolia):** `0x205Ec9442384AC22eeAaA7C330937Af2fFfB8227`
 - **Etherscan Link:** [https://sepolia.etherscan.io/address/0x205Ec9442384AC22eeAaA7C330937Af2fFfB8227](https://sepolia.etherscan.io/address/0x205Ec9442384AC22eeAaA7C330937Af2fFfB8227)
 
-## Project Domain
-
-- **Live Application:** [defisalary-yashk.vercel.app](https://defisalary-yashk.vercel.app/)
-
 ## Installation and Setup
 
 ### Prerequisites
@@ -86,8 +82,8 @@ Ensure you have the following installed:
    cd nft-factory
    ```
 2. Check out the respective README files for backend and frontend setup:
-   - **Backend README**(backend/README.md)
-   - **Frontend README**(frontend/README.md)
+   - [Backend README](backend/README.md)
+   - [Frontend README](frontend/README.md)
 
 ## Screenshots
 
