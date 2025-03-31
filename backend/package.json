@@ -1,0 +1,21 @@
+{
+  "name": "defisalary",
+  "version": "1.0.0",
+  "description": "A decentralized payroll system that automates salary payments in Ethereum",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yash Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^1.3.0",
+    "@openzeppelin/contracts": "^5.2.0",
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.19",
+    "hardhat-gas-reporter": "^2.2.2",
+    "solidity-coverage": "^0.8.14"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}

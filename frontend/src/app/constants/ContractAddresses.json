@@ -1,0 +1,10 @@
+{
+    "sepolia": {
+      "DefisalaryContract": "0xc69C591f92aa95D5f506Edde4A6fc2C67628c6F7"
+    },
+    "localhost": {
+      "MockV3Aggregator": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+      "DefisalaryContract": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0"
+    }
+  }
+  
