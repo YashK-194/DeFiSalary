@@ -91,18 +91,35 @@ Ensure you have the following installed:
 
 ## Screenshots
 
-**Homepage**
-![Homepage](screenshots/Screenshot_1.png)
-**Minting NFT**
-![Mint NFT Popup](screenshots/Screenshot_2.png)
-**After Minting NFT**
-![After Minting NFT](screenshots/Screenshot_3.png)
-**NFT Details**
-![NFT Details](screenshots/Screenshot_4.png)
-**Admin Controls**
-![Admin Controls](screenshots/Screenshot_5.png)
-**NFT in wallet**
-![NFT in wallet](screenshots/Screenshot_6.png)
+**Active Employees Panel**
+![Active Employees Page](screenshots/Screenshot_1.png)
+**Inactive Employees Panel**
+![Inactive Employees Panel](screenshots/Screenshot_2.png)
+**All Employee Addresses Panel**
+![All Employee Addresses Panel](screenshots/Screenshot_3.png)
+**Find Employee Panel**
+![Find Employee Panel](screenshots/Screenshot_4.png)
+**Employee Details**
+![Employee Details](screenshots/Screenshot_5.png)
+**Payment History Panel**
+![Payment History Panel](screenshots/Screenshot_6.png)
+
+### Admin Panel Screenshots
+
+**Add Employee Panel**
+![Add Employee Page](<screenshots/AdminPanel/(Admin)Screenshot_1.png>)
+**Update Employee Panel**
+![Update Employee Panel](<screenshots/AdminPanel/(Admin)Screenshot_2.png>)
+**Remove Employee Panel**
+![Remove Employee Panel](<screenshots/AdminPanel/(Admin)Screenshot_3.png>)
+**Contract Balance Panel**
+![Contract Contract Panel](<screenshots/AdminPanel/(Admin)Screenshot_4.png>)
+**Contract Stats Panel**
+![Contract Stats Panel](<screenshots/AdminPanel/(Admin)Screenshot_5.png>)
+**Payroll Schedule Panel**
+![Payroll Schedule Panel](<screenshots/AdminPanel/(Admin)Screenshot_6.png>)
+**Access Denied Message**
+![Access Denied Message](<screenshots/AdminPanel/(Admin)Screenshot_7.png>)
 
 ## License
 
