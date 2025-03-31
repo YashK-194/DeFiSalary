@@ -43,6 +43,14 @@ const AdminPanelComponent = ({ contract, signer }) => {
           <p className="text-gray-400">
             Only the contract owner can access the admin panel. <br />
             You can see the functions available to the owner in the screenshots.
+            <a
+              href="https://github.com/YashK-194/DeFiSalary/tree/main/screenshots"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 hover:underline ml-1"
+            >
+              https://github.com/YashK-194/DeFiSalary/tree/main/screenshots
+            </a>
           </p>
         </div>
       </div>
